@@ -1,5 +1,8 @@
 _repo: La-lecon-d-amour-dans-un-parc_61351
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61351-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61351#La-lecon-d-amour-dans-un-parc
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
